@@ -1,2 +1,8 @@
 *.class
 *.log
+.metals
+/target
+/project/project
+/project/target
+/journal
+/snapshots
